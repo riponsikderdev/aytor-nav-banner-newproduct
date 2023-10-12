@@ -1,0 +1,21 @@
+@media (min-width: 320px) and (max-width: 767px){
+    #banner .slider .slides {
+        height: 300px;
+    }
+    #banner .slider .slides .banner_cnt h2 {
+        font-size: 40px;
+        margin-top: 3px;
+        margin-bottom: 5px;
+    }
+    #banner .slider .slides .banner_cnt p {
+        font-size: 14px;
+        width: 296.909px;
+        margin-bottom: 30px;
+    }
+    #banner .slider .slides .banner_cnt button {
+        width: 100.364px;
+        height: 41px;
+        font-size: 12px;
+        margin-top: 3px;
+    }
+}
